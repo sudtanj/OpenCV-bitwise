@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(60): warning C4018: '<': signed/unsigned mismatch
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(81): warning C4018: '<': signed/unsigned mismatch
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(82): warning C4018: '<': signed/unsigned mismatch
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\users\my documents\visual studio 2017\projects\project1\project1\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Users\My Documents\Visual Studio 2017\Projects\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\Users\My Documents\Visual Studio 2017\Projects\Project1\x64\Debug\Project1.pdb (Partial PDB)
